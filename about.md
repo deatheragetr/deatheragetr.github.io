@@ -13,7 +13,7 @@ permalink: /about/
 <p>His current role is CTO & Co-founder of <a href="https://www.funder.dog/">funder.dog</a>, an online donation processing system</p>
 <p>His design influences include <a href="https://www.w3.org/People/Berners-Lee/">Tim Berners-Lee's</a> bio.</p>
 <p>His web technology experiences include, but are not limited to: Ruby, Node.js, Perl, Python, React, MySQL, MongoDB, Meteor, and JSONAPI -- <a href="http://jsonapi.org/">the antibikeshdding tool</a></p>
-<p>Permission is hereby granted to quote me, but only without attribution because I'm probaby wrong.</p>
+<p>Permission is hereby granted to quote Thomas, but only without attribution because he's probaby wrong.</p>
 
 <h3>Contact:</h3>
 $whois deatherage.ly
