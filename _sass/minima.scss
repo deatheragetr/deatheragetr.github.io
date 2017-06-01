@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+body {
+  font-family: monospace;
+}
+
+p, input, a, div {
+  font-family: inherit;
+}
+
+// Import partials.
+@import
+  "syntaxHighlight"
+;
+
