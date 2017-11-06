@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <h1><a href="/">HOME</a></h1>
 <div style="width:200px;"><marquee>Bio</marquee></div>
-<img src="/images/avatar.jpg" />
+<div><marquee><img src="/images/avatar.jpg" /></marquee></div>
 
 <h5>Details</h5>
 <p>Thomas is an OK software engineer and mediocre designer. </p>
