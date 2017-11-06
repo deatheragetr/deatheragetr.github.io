@@ -10,6 +10,7 @@ permalink: /about/
 <h5>Details</h5>
 <p>Thomas is an OK software engineer and mediocre designer. </p>
 <p>He lives in a 1 bedroom apartment in NYC.</p>
+<p>He was raised in Virginia, born in Pennsylvania and conceived in Nairobi, Kenya</p>
 <p>He also has a girlfriend.</p>
 <p>His current role is CTO & Co-founder of <a href="https://funder.dog/">funder.dog</a>, where he builds conversational bots to boost fundraising efforts for non-profits. Software is eating the world. Web is eating software. Bots are eating the web. Thomas usually eats his own words.</p>
 <p>His design influences include <a href="https://www.w3.org/People/Berners-Lee/">Tim Berners-Lee's</a> bio.</p>
