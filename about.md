@@ -10,39 +10,39 @@ permalink: /about/
 <blink>⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ Scroll Down ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ </blink>
 <div>
   <marquee>
-    <img src="/images/avatar.jpg" />
-    <img height="200" src="/images/twitter.jpeg" />
-    <img height="200" width="200" src="/images/pic_with_chin.jpg" />
-    <img height="200" width="200" src="/images/cancun.jpg" />
-    <img height="200" width="200" src="/images/core4.jpg" />
-    <img height="200" width="200" src="/images/ugly_sweater.jpg" />
-    <img height="200" width="200" src="/images/sox.jpg" />
-    <img height="200" width="200" src="/images/chin_again.jpg" />
-    <img height="200" width="200" src="/images/indiana.jpeg" />
-    <img height="200" width="200" src="/images/chin_once_more.jpg" />
-    <img height="200" width="200" src="/images/tini_time.jpg" />
-    <img src="/images/carb_loading.jpg" />
-    <img height="200" width="200" src="/images/tri.jpg" />
-    <img height="200" width="200" src="/images/tri_2.jpg" />
-    <img height="200" width="200" src="/images/chess.jpg" />
-    <img height="200" width="200" src="/images/beach.jpg" />
-    <img height="200" width="200" src="/images/shoes.jpg" />
-    <img height="200" width="200" src="/images/diary.jpg" />
-    <img width="200" src="/images/james_river_with_donnie.jpg" />
-    <img width="200" src="/images/san_fran_peaks.jpg" />
-    <img width="200" src="/images/solas.jpg" />
-    <img width="200" src="/images/selfie.jpg" />
-    <img width="200" src="/images/26bday.jpg" />
-    <img width="200" src="/images/bears.jpg" />
-    <img width="200" src="/images/mexico.jpg" />
-    <img width="200" src="/images/mexico2.jpg" />
-    <img width="200" src="/images/he-man.jpg" />
-    <img width="200" src="/images/cali_coast.jpg" />
-    <img width="200" src="/images/ugly_sweater.png" />
-    <img width="200" src="/images/elyssa_and_me.jpg" />
-    <img width="200" src="/images/pufferfish.jpg" />
-    <img width="200" src="/images/barcelona.jpg" />
-    <img width="200" src="/images/mexico3.png" />
+    <img alt="Thomas Deatherage holding a beer" src="/images/avatar.jpg" />
+    <img alt="Thomas Deatherage wearing a green tie" height="200" src="/images/twitter.jpeg" />
+    <img alt="Thomas Deatherage with an asian female friend" height="200" width="200" src="/images/pic_with_chin.jpg" />
+    <img alt="Thomas Deatherage with a group of his friends in Mexico" height="200" width="200" src="/images/cancun.jpg" />
+    <img alt="Thomas Deatherage with three other friends in a photo booth" height="200" width="200" src="/images/core4.jpg" />
+    <img alt="Thomas Deatherage with a group of friends at an ugly christmas sweater party" height="200" width="200" src="/images/ugly_sweater.jpg" />
+    <img alt="Thomas Deatherage's ankle and rolled down sock" height="200" width="200" src="/images/sox.jpg" />
+    <img alt="Thomas Deatherage with female asian friend at bar" height="200" width="200" src="/images/chin_again.jpg" />
+    <img alt="Thomas Deatherage at a restaurant in Indianapolis, Indiana" height="200" width="200" src="/images/indiana.jpeg" />
+    <img alt="Thomas Deatherage with female asian friend at a restaurant" height="200" width="200" src="/images/chin_once_more.jpg" />
+    <img alt="Thomas Deatherage sharing a cocktail" height="200" width="200" src="/images/tini_time.jpg" />
+    <img alt="Thomas Deatherage eating pasta" src="/images/carb_loading.jpg" />
+    <img alt="Thomas Deatherage after a triathlon with friend" height="200" width="200" src="/images/tri.jpg" />
+    <img alt="Thomas Deathereage after a triathlon with friends" height="200" width="200" src="/images/tri_2.jpg" />
+    <img alt="Thomas Deatherage playing chess" height="200" width="200" src="/images/chess.jpg" />
+    <img alt="Thomas Deatherage playing cards at the beach" height="200" width="200" src="/images/beach.jpg" />
+    <img alt="Thomas Deatherage sitting in a chair" height="200" width="200" src="/images/shoes.jpg" />
+    <img alt="Thomas Deatherage writing notes" height="200" width="200" src="/images/diary.jpg" />
+    <img alt="Thomas Deatherage in a canoe with friend Donald Drummond" width="200" src="/images/james_river_with_donnie.jpg" />
+    <img alt="Thomas Deatherage holding binoculars and a beer" width="200" src="/images/san_fran_peaks.jpg" />
+    <img alt="Thomas Deatherage with a beer at a salsa club" width="200" src="/images/solas.jpg" />
+    <img alt="Thomas Deatherage takes a selfie" width="200" src="/images/selfie.jpg" />
+    <img alt="Thomas Deatheraage out on the town for his 26th birthday" width="200" src="/images/26bday.jpg" />
+    <img alt="Thomas Deatherage in front a Viceland poster for bears" width="200" src="/images/bears.jpg" />
+    <img alt="Thomas Deatherage with a friend in Bacalar, Mexico" width="200" src="/images/mexico.jpg" />
+    <img alt="Thomas Deatherage wearing sunglasses and sipping coffee in Bacalar, Mexico" width="200" src="/images/mexico2.jpg" />
+    <img alt="He-man holding a sword" width="200" src="/images/he-man.jpg" />
+    <img alt="Thomas Deatherage staring into the pacific ocean" width="200" src="/images/cali_coast.jpg" />
+    <img alt="Thomas Deatherage with some friends who are wearing ugly Christmas sweaters" width="200" src="/images/ugly_sweater.png" />
+    <img alt="Thomas Deatherage in front of the Brooklyn Bridge with his girlfriend on a snowy winter day" width="200" src="/images/elyssa_and_me.jpg" />
+    <img alt="Thomas Deatherage having an intimate conversation with a friend" width="200" src="/images/pufferfish.jpg" />
+    <img alt="Thomas Deatherage with high school friends in Barcelona, Spain" width="200" src="/images/barcelona.jpg" />
+    <img alt="Thomas Deatherage wearing shorty shorts and receiving a big bear hug from his friend" width="200" src="/images/mexico3.png" />
   </marquee>
 </div>
 
