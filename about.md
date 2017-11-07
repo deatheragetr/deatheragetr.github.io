@@ -5,7 +5,9 @@ metakeywords: About Thomas Deatherage
 permalink: /about/
 ---
 <blink><h1><a href="/">HOME</a></h1></blink>
-<div style="width:200px;"><marquee>Bio</marquee></div>
+<div style="width:300px;"><marquee>Biographical details about Thomas Deatherage</marquee></div>
+<marquee>⬇️  scroll down ⬇️</marquee>
+<blink>⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ Scroll Down ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ </blink>
 <div>
   <marquee>
     <img src="/images/avatar.jpg" />
@@ -62,6 +64,6 @@ Interesting facts: Yes the ```<blink>``` tag has long been deprecated. Yes this 
 
 
 <blink>
-<h3>Contact:</h3>
+<h3>Contact 📞 ☎️  📱 :</h3>
 $whois deatherage.ly
 </blink>
