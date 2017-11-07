@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Thomas Deatherage
+metakeywords: About Thomas Deatherage
 permalink: /about/
 ---
 <h1><a href="/">HOME</a></h1>
