@@ -4,7 +4,7 @@ title: About Thomas Deatherage
 metakeywords: About Thomas Deatherage
 permalink: /about/
 ---
-<blink><h1><a href="/">HOME</a></h1></blink>
+<blink><h1><a href="/">HOME 🏠 </a></h1></blink>
 <div style="width:300px;"><marquee>Biographical details about Thomas Deatherage</marquee></div>
 <marquee>⬇️  scroll down ⬇️</marquee>
 <blink>⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ Scroll Down ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ </blink>
@@ -36,6 +36,7 @@ permalink: /about/
     <img width="200" src="/images/bears.jpg" />
     <img width="200" src="/images/mexico.jpg" />
     <img width="200" src="/images/mexico2.jpg" />
+    <img width="200" src="/images/he-man.jpg" />
     <img width="200" src="/images/cali_coast.jpg" />
     <img width="200" src="/images/ugly_sweater.png" />
     <img width="200" src="/images/elyssa_and_me.jpg" />
@@ -58,12 +59,12 @@ permalink: /about/
 Interesting facts: Yes the ```<blink>``` tag has long been deprecated. Yes this site is using a CSS polyfill for ```<blink>```. Improvise. Overcome. Adapt.
 <p>If one learns by failing, Thomas is one highly educated individual.</p>
 <p><b>Other</b></p>
-<p>"<i>Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college</i>" -- Kurt Vonnegut. I disagree, Kurt; I think they're useful; that's just an opinion, man; you've never programmed in JavaScript, have you?; const haveYou = false;.</p>
-<p>"<i>Someday I will write a programming language that uses em dashes -- that would really be something</i>" -- Thomas Deatherage.</p>
+<p>"<i>Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college</i>" -- Kurt Vonnegut. I disagree, Kurt; I think they're useful, Kurt; that's just your opinion, Kurt; you've never programmed in JavaScript, have you Kurt?; const haveYou = false; Kurt; Kurt; Kurt; Kurt; Kurt.</p>
+<p>"<i>Someday I will write a programming language that uses em dashes -- that would really be something</i>" -- Thomas Deatherage -- thoughts on programming.</p>
 <p>Permission is hereby granted to quote Thomas, but only without attribution because he's probaby wrong.</p>
 
 
 <blink>
-<h3>Contact 📞 ☎️  📱 :</h3>
+<h3>Contact 📩  📞  📨  ☎️  📱  📬  📧:</h3>
 $whois deatherage.ly
 </blink>
