@@ -25,6 +25,34 @@
         ga('send', 'pageview');
 
       </script>
+      <style>
+        blink {
+            -webkit-animation: 2s linear infinite condemned_blink_effect; // for android
+            animation: 2s linear infinite condemned_blink_effect;
+        }
+        @-webkit-keyframes condemned_blink_effect { // for android
+            0% {
+                visibility: hidden;
+            }
+            50% {
+                visibility: hidden;
+            }
+            100% {
+                visibility: visible;
+            }
+        }
+        @keyframes condemned_blink_effect {
+            0% {
+                visibility: hidden;
+            }
+            50% {
+                visibility: hidden;
+            }
+            100% {
+                visibility: visible;
+            }
+        }
+      </style>
     </head>
 
     <body>
