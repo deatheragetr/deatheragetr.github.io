@@ -57,7 +57,7 @@ permalink: /about/
 <p>Interesting facts: Thomas once cost his empolyer over $15k in losses after he forgot to specify UTF-8 on a database migration script. Now he never forgets his character encodings. </p>
 <p>Interesting facts: Seven years of Catholic school means Thomas can write illegibly in both print <i>and</i> cursive.</p>
 Interesting facts: Yes the HTML ```<blink>``` tag has long been deprecated. Yes this site is using a CSS polyfill for ```<blink>```. Improvise. Overcome. Adapt.
-<p>Interesting facts: Thomas once received a callback to audition for the bachelorette. He was rejected. Oh Rachel, you'll always be the one who got away 💔.</p>
+<p>Interesting facts: Thomas once received a callback to audition for the bachelorette. He was rejected. Oh Rachel, alas you'll always be the one who got away 💔.</p>
 <p>If one learns by failing, Thomas is one highly educated individual.</p>
 <p><b>Other</b></p>
 <p>"<i>Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college</i>" -- Kurt Vonnegut. I disagree, Kurt; I think they're useful, Kurt; that's just your opinion, Kurt; you've never programmed in JavaScript, have you Kurt?; const haveYou = false; Kurt; Kurt; Kurt; Kurt; Kurt.</p>
