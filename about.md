@@ -9,6 +9,7 @@ permalink: /about/
 <div>
   <marquee>
     <img src="/images/avatar.jpg" />
+    <img height="200" src="/images/twitter.jpeg" />
     <img height="200" width="200" src="/images/pic_with_chin.jpg" />
     <img height="200" width="200" src="/images/cancun.jpg" />
     <img height="200" width="200" src="/images/core4.jpg" />
@@ -18,7 +19,7 @@ permalink: /about/
     <img height="200" width="200" src="/images/indiana.jpeg" />
     <img height="200" width="200" src="/images/chin_once_more.jpg" />
     <img height="200" width="200" src="/images/tini_time.jpg" />
-    <img height="200" width="200" src="/images/carb_loading.jpg" />
+    <img src="/images/carb_loading.jpg" />
     <img height="200" width="200" src="/images/tri.jpg" />
     <img height="200" width="200" src="/images/tri_2.jpg" />
     <img height="200" width="200" src="/images/chess.jpg" />
