@@ -50,7 +50,7 @@ permalink: /about/
 <p>Thomas is an OK software engineer and mediocre designer. </p>
 <p>He lives in a 1 bedroom apartment in NYC.</p>
 <p>He was raised in Virginia, born in Pennsylvania and conceived in Nairobi, Kenya.</p>
-<p>He <span style="text-decoration: line-through;">is single</span> has a girlfriend (subject to fluctuation 🙁).</p>
+<p>He <span style="text-decoration: line-through;">is single</span> has a girlfriend.</p>
 <p>His current role is CTO & Co-founder of <a href="https://funder.dog/">funder.dog</a>, where he builds conversational bots to boost fundraising efforts for non-profits. Software is eating the world. Web is eating software. Bots are eating the web. Thomas is likely eating his own words.</p>
 <p>His design influences include <a href="https://www.w3.org/People/Berners-Lee/">Tim Berners-Lee's</a> bio.</p>
 <p>His web technology experiences include, but are not limited to: Ruby (both Rails _and_ Sinatra), Node.js, Perl, Python, React, MySQL/MariaDB, MongoDB, Meteor, poorly designed Raspberry Pi/Arduino hardware hacks, and JSONAPI -- <a href="http://jsonapi.org/">the antibikeshdding tool</a></p>
