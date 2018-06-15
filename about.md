@@ -53,7 +53,7 @@ permalink: /about/
 <p>He <span style="text-decoration: line-through;">is single</span> has a girlfriend.</p>
 <p>His current role is CTO & Co-founder of <a href="https://funder.dog/">funder.dog</a>, where he builds conversational bots to boost fundraising efforts for non-profits. Software is eating the world. Web is eating software. Bots are eating the web. Thomas is likely eating his own words.</p>
 <p>His design influences include <a href="https://www.w3.org/People/Berners-Lee/">Tim Berners-Lee's</a> bio.</p>
-<p>His web technology experiences include, but are not limited to: Ruby (both Rails _and_ Sinatra), Node.js, Perl, Python, React, MySQL/MariaDB, MongoDB, Meteor, poorly designed Raspberry Pi/Arduino hardware hacks, and JSONAPI -- <a href="http://jsonapi.org/">the antibikeshdding tool</a></p>
+<p>His web technology experiences include, but are not limited to: Ruby (both Rails _and_ Sinatra), Node.js, Perl, Python, React, MySQL/MariaDB, MongoDB, Meteor, poorly designed Raspberry Pi/Arduino hardware hacks, and JSONAPI -- <a href="http://jsonapi.org/">the antibikeshdding tool</a>.  However, experience should not be confused with competence.  Thomas does not claim to know any of the aforementioned technologies.  He only claims exposure.</p>
 <p>Interesting facts: Thomas once cost his empolyer over $15k in losses after he forgot to specify UTF-8 on a database migration script. Now he never forgets his character encodings. </p>
 <p>Interesting facts: Seven years of Catholic school means Thomas can write illegibly in both print <i>and</i> cursive.</p>
 Interesting facts: Yes the HTML ```<blink>``` tag has long been deprecated. Yes this site is using a CSS polyfill for ```<blink>```. Improvise. Overcome. Adapt.
