@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Authenticating OAuth v1.0a against the Twitter API"
-date:   2012-08-10 14:10:00 -0400
+date:   2023-08-10 14:10:00 -0400
 permalink: /authenticating-twitter-api-oauth-v1a
 categories: twitter oauth signatures
 ---

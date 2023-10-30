@@ -1,3 +1,11 @@
+```
+layout: post
+title:  "Prompt Engineering"
+date:   2023-08-10 14:10:00 -0400
+permalink: /prompt-engineering
+categories: prompt engineering chat-gpt
+published: false
+```
 #  Notes on ChatGPT Prompt Engineering for Developers
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng
