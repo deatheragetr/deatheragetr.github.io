@@ -12,7 +12,11 @@ Recently, Twitter integration spontaneously ceased to work in one of my apps.  S
 
 ```
 403 Forbidden
-You currently have access to Twitter API v2 endpoints and limited v1.1 endpoints only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+You currently have access to Twitter API v2 endpoints and 
+limited v1.1 endpoints only. If you need access to this 
+endpoint, you may need a different access level. You can 
+learn more here: https://developer.twitter.com/en/docs/tw
+itter-api/getting-started/about-twitter-api#v2-access-leve
 ```
 
 The [`twitter` gem](https://github.com/sferik/twitter) I'm using has yet to be patched. (And probably won't for a while, given the dearth of recent activity).  And near as I could tell, there were no existing gems that supported the v2 `POST /2/tweets` endpoint with OAuth 1.0a.  So I made a quick workaround.  The most difficult part here -- and the advantage of using the `twitter` gem -- is the convoluted OAuth signature.  
