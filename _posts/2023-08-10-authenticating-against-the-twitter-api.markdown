@@ -4,6 +4,7 @@ title:  "Authenticating OAuth v1.0a against the Twitter API"
 date:   2023-08-10 14:10:00 -0400
 permalink: /authenticating-twitter-api-oauth-v1a
 categories: twitter oauth signatures
+metakeywords: ruby, twitter, oauth, oauth signatures
 ---
 
 # Twitter's Deprecated `POST /1.1/statuses/update.json`` Endpoint and a Workaround
