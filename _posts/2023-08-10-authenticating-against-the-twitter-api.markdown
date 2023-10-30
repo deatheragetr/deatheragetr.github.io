@@ -4,7 +4,8 @@ title:  "Authenticating OAuth v1.0a against the Twitter API"
 date:   2023-08-10 14:10:00 -0400
 permalink: /authenticating-twitter-api-oauth-v1a
 categories: twitter oauth signatures
-metakeywords: ruby, twitter, oauth, oauth signatures
+metakeywords: ruby, twitter, oauth, oauth signatures, oauth 1.0a, POST /1.1/statuses/updates, POST /2/tweets, simple_oauth
+excerpt: How to workaround Twitter's recent complete deprecation of POST /1.1/statuses/updates endpoint in ruby using the simple_oauth gem to support the new POST /2/tweets endpoint with OAuth 1.0a
 ---
 
 # Twitter's Deprecated `POST /1.1/statuses/update.json`` Endpoint and a Workaround
